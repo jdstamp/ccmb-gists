@@ -1,6 +1,2 @@
 # ccmb-gists
-Useful code snippets.
-
-
-## Useful command-line tools
-1. Faster than grep: [ripgrep](https://github.com/BurntSushi/ripgrep)
+Useful code snippets sorted by tooling.
